@@ -1,1 +1,0 @@
-/usr/bin/c++   -O3 -DNDEBUG    CMakeFiles/cameratest.dir/main.cpp.o  -o cameratest -rdynamic -L/home/allen/cameraModule/RoBoIO/LINUX camera/libcamera.a -lpthread -Wl,-rpath,/home/allen/cameraModule/RoBoIO/LINUX: 

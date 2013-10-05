@@ -1,2 +1,0 @@
-/home/allen/cameraModule/build/camera/CMakeFiles/camera.dir
-/home/allen/cameraModule/build/CMakeFiles/cameratest.dir
