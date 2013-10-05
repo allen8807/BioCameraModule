@@ -1,0 +1,5 @@
+2013-10-05 21:20 Zhao Bolu<zhaobl880704@gmail.com>
+V0.1
+摄像头模块 基于luvcview修改
+基础代码
+change <linux/videodev.h> to <linux/videodev2.h>

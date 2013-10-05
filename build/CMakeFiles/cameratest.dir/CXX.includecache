@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/allen/cameraModule/camera/camera.h
+
+/home/allen/cameraModule/main.cpp
+unistd.h
+-
+pthread.h
+-
+stdio.h
+-
+sys/time.h
+-
+string.h
+-
+iostream
+-
+cmath
+-
+camera/camera.h
+/home/allen/cameraModule/camera/camera.h
+

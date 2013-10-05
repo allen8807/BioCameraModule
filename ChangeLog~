@@ -1,0 +1,1 @@
+change camera.c <linux/videodev.h> to <linux/videodev2.h>
